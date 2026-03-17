@@ -1,0 +1,32 @@
+# Build directories
+cmake-build-*/
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# CLion / IntelliJ
+.idea/
+
+# Binaries
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
